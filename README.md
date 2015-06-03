@@ -1,2 +1,1 @@
-# taobinxian-s-github-blog
-IT Tech Blogs
+# some technology blogs in this repo
